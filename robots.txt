@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rialect.github.io/sitemap.html.gz
+Sitemap: https://rialect.github.io/app/sitemap.html.gz
+Sitemap: https://rialect.github.io/assets/sitemap.html.gz
+Sitemap: https://rialect.github.io/css/sitemap.html.gz
+Sitemap: https://rialect.github.io/includes/sitemap.html.gz
+Sitemap: https://rialect.github.io/item/sitemap.html.gz
+Sitemap: https://rialect.github.io/src/sitemap.html.gz
